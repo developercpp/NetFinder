@@ -1,4 +1,4 @@
-# 🔍 Web Application Reconnaissance Tool
+# 🔍 NetFinder
 
 This project is a reconnaissance and vulnerability scanning tool designed to discover and identify potential security weaknesses in web applications. It employs various techniques, including HTTP requests and WebSocket connections, to probe a target URL and extract valuable information. The tool provides a visually appealing and informative output in the console, making it easier to understand the findings. It's designed to be a standalone tool that can also be integrated into larger security testing frameworks or CI/CD pipelines.
 
@@ -103,7 +103,7 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 📬 **Contact**
 
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or suggestions, feel free to contact me on discord: aj.cpp
 
 💖 **Thanks**
 
